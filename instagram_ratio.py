@@ -1,3 +1,5 @@
+#Authored by Shaunak N. Pandya
+
 from tkinter import *
 import requests
 from bs4 import BeautifulSoup
