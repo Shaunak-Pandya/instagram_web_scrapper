@@ -17,8 +17,9 @@ A Python based tool to perform WebScrapping on Instagram
 -> Can be used for further predictions
 
 
-# In case you use this code and find any difficulty feel free to contact me.
 
 # @Author- Shaunak Pandya
+In case you use this code and find any difficulty feel free to contact me.
+
 email: shaunak.n.pandya@gmail.com
 website: www.websycode.in/shaunak
