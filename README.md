@@ -12,12 +12,12 @@ A Python based tool to perform WebScrapping on Instagram
 2) You will get basic details like number of user's following (m) and followers (n).
 3) Ratio or balanceRatio is ration of n to m.
   
-#Significance of Ratio  (Feature to be added soon)
+# Significance of Ratio  (Feature to be added soon)
 -> Based on value of ratio we can easily start analysis sentiments or outlook of user.
 -> Can be used for further predictions
 
 
-In case you use this code and find any difficulty feel free to contact me.
+# In case you use this code and find any difficulty feel free to contact me.
 
 # @Author- Shaunak Pandya
 email: shaunak.n.pandya@gmail.com
